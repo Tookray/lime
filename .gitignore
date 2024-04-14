@@ -1,0 +1,4 @@
+/target
+
+# Don't add the ROMs.
+/roms
